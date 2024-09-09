@@ -5,6 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import BasicExample from './form';
 import GridComplexExample from './formComplex';
+import 'bootstrap/dist/css/bootstrap.css';
+import './custom.scss';
 
 
 
